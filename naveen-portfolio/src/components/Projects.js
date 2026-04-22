@@ -21,7 +21,7 @@ const projects = [
     gradient: 'linear-gradient(135deg, #7c6af7, #a78bf9)',
     icon: '🔐',
     status: 'Production Ready',
-    github: 'https://github.com/',
+    github: 'https://github.com/Naveen13-nevu/Authentication_System',
     features: ['OTP Email Verify', 'JWT Auth', 'Spring Security', 'React UI'],
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     gradient: 'linear-gradient(135deg, #00d4aa, #00b890)',
     icon: '🏥',
     status: 'Production Ready',
-    github: 'https://github.com/',
+    github: 'https://github.com/Naveen13-nevu/MediSlot-Project',
     features: ['Slot Validation', 'MVC Pattern', 'Session Auth', 'CRUD Ops'],
   },
 ];
