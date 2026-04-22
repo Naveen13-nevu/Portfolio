@@ -128,7 +128,7 @@ export default function Hero() {
             <span>View Projects</span>
           </button>
           <a
-            href="https://linkedin.com/in/"
+            href="https://www.linkedin.com/in/naveen1313"
             target="_blank"
             rel="noreferrer"
             className="btn-icon"
@@ -140,7 +140,7 @@ export default function Hero() {
             </svg>
           </a>
           <a
-            href="https://github.com/"
+            href="https://github.com/Naveen13-nevu"
             target="_blank"
             rel="noreferrer"
             className="btn-icon"
