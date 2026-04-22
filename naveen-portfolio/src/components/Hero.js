@@ -1,5 +1,4 @@
 import React, { useEffect, useRef } from 'react';
-import { TypeAnimation } from 'react-type-animation';
 import './Hero.css';
 
 export default function Hero() {
@@ -99,23 +98,8 @@ export default function Hero() {
           <span className="title-name">Naveen Kumar</span>
           <br />
           <span className="title-role">
-            <TypeAnimation
-              sequence={[
-                'Java Full Stack Developer',
-                2000,
-                'Spring Boot Engineer',
-                2000,
-                'React.js Developer',
-                2000,
-                'REST API Architect',
-                2000,
-              ]}
-              wrapper="span"
-              speed={50}
-              repeat={Infinity}
-              className="typed-text"
-            />
-          </span>
+  <span className="typed-text">Java Full Stack Developer</span>
+</span>
         </h1>
 
         <p className="hero-desc">
