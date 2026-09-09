@@ -7,8 +7,9 @@ const timeline = [
   { year: '2022', label: 'Graduated with 7.4 CGPA', sub: 'Started professional journey' },
   { year: '2023', label: 'Customer Support Executive', sub: 'Teleperformance Chennai' },
   { year: '2025', label: 'Java Full Stack Training', sub: 'SLA Institute, Chennai' },
-  { year: '2025', label: 'IBM Certification', sub: 'HTML, CSS, JavaScript (WD0102EN)' },
-  { year: '2026', label: 'Production-Ready Projects', sub: 'Auth System + MediSlot' },
+  { year: '2025', label: 'IBM Certification', sub: 'Web Development Fundamentals (WD0102EN)' },
+  { year: '2026', label: 'MediSlot — Live on Netlify', sub: 'medislot01.netlify.app' },
+  { year: '2026', label: 'TaskFlow — Live on Netlify', sub: 'todowork1.netlify.app' },
 ];
 
 export default function About() {
@@ -27,14 +28,15 @@ export default function About() {
             </h2>
 
             <p className="about-text">
-              I'm a Java Full Stack Developer trained at SLA Institute, Chennai — with hands-on experience building 
-              two complete production-ready applications. I specialize in designing and implementing 
-              end-to-end solutions: from database schema design to responsive frontends.
+               Java Full Stack Developer with hands-on experience designing, developing, and deploying resilient web 
+  applications using Java, Spring Boot, and Angular. Proficient across all tiers of software engineering — 
+  from secure RESTful APIs and microservice patterns to normalized MySQL schemas and reactive Angular frontends.
             </p>
             <p className="about-text">
-              My background in customer support gave me a unique perspective — I understand that 
-              software must be reliable, intuitive, and performant. I bring the same discipline 
-              I developed handling SLA constraints to every line of code I write.
+                Adept at Spring Security with JWT authentication, writing clean maintainable code, 
+  and deploying live production applications. My background in customer support sharpened 
+  my problem-solving, communication, and attention to detail — skills I bring to every 
+  line of code I write.
             </p>
 
             <div className="about-highlights">

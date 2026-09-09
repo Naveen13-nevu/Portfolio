@@ -98,7 +98,7 @@ export default function Hero() {
           <span className="title-name">Naveen Kumar</span>
           <br />
           <span className="title-role">
-  <span className="typed-text">Java Full Stack Developer</span>
+ <span className="typed-text">Java Full Stack Developer</span>
 </span>
         </h1>
 
